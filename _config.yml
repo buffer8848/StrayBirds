@@ -46,9 +46,9 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: /StrayBirds
+url: /blog
 feed: /atom.xml
-favicon: http://jekyllrb.com/favicon.png
+favicon: https://avatars0.githubusercontent.com/u/1992545?v=3&s=460
 
 #Nav config
 nav:
@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: buffer8848
-baseurl: /buffer
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
